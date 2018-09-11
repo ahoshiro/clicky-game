@@ -1,0 +1,11 @@
+.wrapper {
+  background: rgb(175, 175, 175);
+  background-image: url('http://www.bjarke.it/webhook-uploads/1459682165846/GTA5%202016-04-03%2011-46-56-36.bmp');
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  padding-bottom: 50px;
+}
